@@ -2,9 +2,9 @@
 
 # Table of Content
 
-- [Chief Executive Officer (CEO)](https://github.com/thefiorecherry/zorpid#chief-executive-officer-ceo)
-- [Chief Technical Officer (CTO)](https://github.com/thefiorecherry/zorpid#chief-technical-officer-cto)
-- [Chief Financial Officer (CEO)](https://github.com/thefiorecherry/zorpid#chief-financial-officer-cfo)
+1. [Chief Executive Officer (CEO)](https://github.com/thefiorecherry/zorpid#chief-executive-officer-ceo)
+2. [Chief Technical Officer (CTO)](https://github.com/thefiorecherry/zorpid#chief-technical-officer-cto)
+3. [Chief Financial Officer (CEO)](https://github.com/thefiorecherry/zorpid#chief-financial-officer-cfo)
 
 ## Chief Executive Officer (CEO)
 
