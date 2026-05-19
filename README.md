@@ -12,8 +12,13 @@
 4. Public Faces; Woh serves krte media, investors, and public se ek primary spokesperson ki tarah.
 5. Company Culture: Company ki working values, working style, and team ka overall environment and vibes.
 
-> CEO of Amazon is “Andy Jassy”
-> CEO of Flipkart is “Kalyan krishnamurthy”
+> For Example:
+> 
+> 1. CEO of Amazon is “Andy Jassy”
+> 
+> 2. CEO of Flipkart is “Kalyan Krishnamurthy”
+
+---
 
 ## Chief Technical Officer(CTO)
 
@@ -40,7 +45,7 @@
 3. Reporting & Compliance: Financial records accurate rakhna & legal rules follow karna.
 4. Cash Flow Management: Ensure karna ki salaries, bills & taxes ke liye hamesha enough cash ho.
 
-> For Example:CFO of Lenskart is “Abhishek Gupta”
+> CFO of Lenskart is “Abhishek Gupta”
 
 
 
