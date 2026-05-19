@@ -36,8 +36,10 @@
 2. Team Leaderships: Engineering, software, development and IT(Information Technology) ko manage krna.
 3. Product Building: Apps, Websites, and software ko smooth banana taki customers easily use krle.
 4. Security and Reliability: Ensure krna ki company ka tech system safe ho or hack se fast ho or crash naa ho.
-
-> For Example:CTO of Pinterest is “Matt Madrigal”
+>For Example
+>
+> CTO of Pinterest is “Matt Madrigal”
+>
 > CTO of OpenAI is “Shrinivas Narayanan”
 
 ## Chief Financial Officer (CFO)
