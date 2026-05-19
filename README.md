@@ -1,6 +1,6 @@
 # Zorpid Diagnostics
 
-## Table of Content
+# Table of Content
 
 - [Chief Executive Officer (CEO)](https://github.com/thefiorecherry/zorpid#chief-executive-officer-ceo)
 - [Chief Technical Officer (CTO)](https://github.com/thefiorecherry/zorpid#chief-technical-officer-cto)
